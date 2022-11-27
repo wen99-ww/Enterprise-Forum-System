@@ -2,6 +2,7 @@ package com.Bean;
 
 /**
  * 板块对象类
+ * 板块
  */
 public class SectionInfo {
 

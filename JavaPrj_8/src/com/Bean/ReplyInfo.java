@@ -4,6 +4,7 @@ import java.util.Date;
 
 /**
  * 跟帖对象类
+ * 回复更新帖子
  */
 public class ReplyInfo{
 	private Integer rid;			// 跟帖编号

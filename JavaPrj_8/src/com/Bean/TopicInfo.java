@@ -4,6 +4,7 @@ import java.util.Date;
 
 /**
  * 帖子对象类
+ * 话题信息，帖子
  */
 public class TopicInfo {
 	private Integer tid;			// 帖子编号
